@@ -1,0 +1,12 @@
+#!/bin/bash
+export NODE_ENV="env-local"
+export HOST="0.0.0.0:42021"
+export PROTOCOL="http"
+#export SWAGGER_BASEPATH=""
+export MONGO_USERNAME=""
+export MONGO_PASSWORD=""
+export MONGO_CONNECTION="0.0.0.0:27017"
+export REPLICA_SET="myReplica"
+export MONGO_PORT="27017"
+export MONGO_DBNAME="tasks"
+export PORT="42021"
